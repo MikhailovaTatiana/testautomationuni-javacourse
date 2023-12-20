@@ -1,4 +1,4 @@
-package chapter6;
+package exercises;
 
 public class PhoneBill {
     private int id;

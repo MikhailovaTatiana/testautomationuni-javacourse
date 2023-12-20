@@ -12,7 +12,7 @@ public class GradeMessage {
 
         switch(grade) {
             case "A":
-               message = "Exellent job!";
+               message = "Excellent job!";
                break;
             case "B":
                 message = "Great job!";

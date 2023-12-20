@@ -3,9 +3,8 @@ package chapter4;
 import java.util.Scanner;
 
 /*
- * WHILE LOOP
- * Each store employee makes $15 an hour.
- *
+ WHILE LOOP
+ Each store employee makes $15 an hour.
  */
 public class GrossPayInputValidation {
     public static void main(String[] args) {
