@@ -12,7 +12,6 @@ public class Market {
         yellowFruit = new Banana();
         ((Banana) yellowFruit).peel();
         yellowFruit.makeJuice();
-        yellowFruit.getCalories();
         System.out.println(yellowFruit.getCalories() + " calories");
 
         System.out.println("===============");
